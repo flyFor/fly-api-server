@@ -128,3 +128,4 @@ buildNumber.properties
 .mvn
 mvnw
 mvnw.*
+application.properties
